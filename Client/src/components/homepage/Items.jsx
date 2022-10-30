@@ -162,7 +162,7 @@ const dcrprod =async (productinfo) =>{
       <div className="items-info">
         <div className="product-img">
         <a onClick={() => handleDialogOpen()} style={{cursor:'pointer'}}>
-          <img src={imageUrl1} alt="iamge" />
+          <img src={imageUrl1} alt="image" />
           </a>
         </div>
 
