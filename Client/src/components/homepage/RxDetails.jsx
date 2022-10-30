@@ -171,9 +171,9 @@ function RxDetails({Id}) {
         </ButtonGroup>
         </div>
         <div id="buttonarrange">
-      <Button color="success" variant="contained" onClick={() => window.open('https://goo.gl/maps/P6QM4gczQ326ANoZA')} endIcon={<ContactSupportIcon />}>
+      {/* <Button color="success" variant="contained" onClick={() => window.open('https://goo.gl/maps/P6QM4gczQ326ANoZA')} endIcon={<ContactSupportIcon />}>
           Contact Us
-        </Button>
+        </Button> */}
         </div>
       </Box>
       </ThemeProvider>

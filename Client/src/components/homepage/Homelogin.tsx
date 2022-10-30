@@ -374,7 +374,7 @@ let history=useHistory();
     
   </ListItem>
       
-      <Divider />
+       {/* <Divider />
       <ListItem disablePadding >
     
     <ListItemButton target="_blank" component="a" href="https://www.google.com/maps/place/Dev+Homoeo+Hall/@23.3453194,85.2953165,14z/data=!4m6!3m5!1s0x39f4e1f01a3648b1:0x8113bbfbbb0592c9!8m2!3d23.3453194!4d85.312826!15sChVkZXYgaG9tZW8gaGFsbCByYW5jaGmSASFhbHRlcm5hdGl2ZV9tZWRpY2luZV9wcmFjdGl0aW9uZXI?shorturl=1">
@@ -384,7 +384,7 @@ let history=useHistory();
       <ListItemText primary="Contact" />
     </ListItemButton>
     
-  </ListItem>
+  </ListItem> */}
   <Divider />
   <ListItem disablePadding >
     

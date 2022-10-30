@@ -170,9 +170,9 @@ function OrderDetails({Id}) {
           <h3>
             Total Amount : <span>₹{total}.00</span>
           </h3>
-          <Button color="success" variant="contained" onClick={() => window.open('https://goo.gl/maps/P6QM4gczQ326ANoZA')} endIcon={<ContactSupportIcon />}>
+          {/* <Button color="success" variant="contained" onClick={() => window.open('https://goo.gl/maps/P6QM4gczQ326ANoZA')} endIcon={<ContactSupportIcon />}>
           Contact Us
-        </Button>
+        </Button> */}
       
     </div>
     
