@@ -248,7 +248,7 @@ let history=useHistory();
             <MenuIcon />
           </IconButton>
           <Typography variant="h5" component="div" sx={{ flexGrow: 1 }}>
-          Dev Homoeo Hall           </Typography>
+          Chill-Pill           </Typography>
          
          
         
