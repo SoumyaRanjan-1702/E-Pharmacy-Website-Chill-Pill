@@ -27,11 +27,7 @@ E-commerce mobile responsive website for a homeopathic clinic where patients can
 - Track order/rx delivery status and details of prescription.
 
 
-## View deployed site- 
-https://devhomoeohall.netlify.app/
-
-
-
+<!-- 
 ## Screenshots of site- 
 ![Screenshot](./Screenshot/home.png?raw=true "Screenshot")
 
@@ -41,7 +37,8 @@ https://devhomoeohall.netlify.app/
 
 ![Screenshot](./Screenshot/Ordersdashboard.png?raw=true "Screenshot")
 
-![Screenshot](./Screenshot/Rx.png?raw=true "Screenshot")
+![Screenshot](./Screenshot/Rx.png?raw=true "Screenshot") 
+-->
 
 
 
