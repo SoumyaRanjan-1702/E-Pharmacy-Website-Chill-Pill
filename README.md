@@ -1,5 +1,5 @@
 # Chill-Pill (MERN Stack Website) 
-E-commerce mobile responsive website for a homeopathic clinic where patients can get medicines and medical products at their doorstep.
+E-commerce mobile responsive website for a Pharmacy where patients can get medicines and medical products at their doorstep.
 
  
 
