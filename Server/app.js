@@ -549,9 +549,9 @@ app.post('/user/:userId',catchAsync(async(req,res)=>{
        const fileStr = req.body.base64EncodedImage;
        //console.log(req.body.base64EncodedImage)
        const uploadResponse = await cloudinary.uploader.upload(fileStr, {
-           upload_preset: 'dev_setups',
+           upload_preset: 'chillpill',
        });
-    //    console.log(uploadResponse);
+       console.log(uploadResponse);
        res.json({ message: 'Prescription uploaded successfully!' });
         //1. userId
     const userId=req.body.Id;
